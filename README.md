@@ -2,7 +2,7 @@
 나라별 국기 맞추는 객관식 형태의 심플한 게임입니다.<br>
 (현재 국기는 많이 등록되어 있지 않습니다.)
 
-:star: [JELEE Notion - Mini Project](https://www.notion.so/dev-jelee-5686cfa35c1b4c859a27de25d5fad5dd?p=240c39b77510423f8d4838a7af05fd71&pm=c)로 이동하면 해당 미니 프로젝트 또는 다른 프로젝트를 보실 수 있습니다. 또한 자세한 내용을 보실 수 있습니다. :star:
+:star: [JELEE Notion - Mini Project](https://dev-jelee.notion.site/dev-jelee-5686cfa35c1b4c859a27de25d5fad5dd?pvs=4)로 이동하면 해당 프로젝트 또는 다른 프로젝트를 보실 수 있습니다. 또한 자세한 내용을 보실 수 있습니다. :star:
 
 <br/>
 
